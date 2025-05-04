@@ -1,8 +1,3 @@
-// Simple WebSocket chat server using Node.js and ws library
-// Run "npm install ws" before running this server
-// Start server with: node server.js
-// The server listens on port 8080 by default
-
 const WebSocket = require('ws');
 
 const PORT = 8080;
